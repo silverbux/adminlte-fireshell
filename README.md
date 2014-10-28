@@ -3,7 +3,7 @@ adminlte-fireshell
 AdminLte Fireshell - a free Bootstrap 3.x  admin dashboard template that is based on AdminLte combined with Fireshell Boilerplate
 
 #Preview
-!["AdminLTE-Fireshell"](http://almsaeedstudio.com/adminlte2.png "AdminLTE-Fireshell")
+!["AdminLTE-Fireshell"](https://raw.githubusercontent.com/silverbux/adminlte-fireshell/master/screenshot.png "AdminLTE-Fireshell")
 
 
 # Installation
@@ -26,8 +26,8 @@ adminlte-fireshell
 │  │    ├── css         # css files
 │  │    ├── js          # js files
 │  │    ├── img         # images files
-│  │    └── fonts       # images files        
-│  │      
+│  │    └── fonts       # images files
+│  │
 │  ├── index.html       # json file containing all js files to combine
 │  └── pages            # source files for css
 │
