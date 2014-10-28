@@ -1,0 +1,14 @@
+{
+  "name": "adminlte-under-fireshell",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "~1.10.2",
+    "bootstrap": "~3.2.0",
+    "jquery-ui": "1.11.1"
+  },
+  "devDependencies": {
+    "jquery": "~1.10.2",
+    "bootstrap": "~3.2.0",
+    "jquery-ui": "1.11.1"
+  }
+}
